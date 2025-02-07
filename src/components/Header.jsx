@@ -4,7 +4,7 @@ const Header = ({ currentSong, isPlaying }) => {
   // }
 
   return (
-    <header className="bg-gray-800 p-4 flex custom-padding items-center justify-center border-b gap-5 border-gray-700">
+    <header className="bg-gray-800 p-4 flex items-center justify-center border-b gap-5 border-gray-700">
       <img 
         src={currentSong.imageUrl} 
         alt={currentSong.title}

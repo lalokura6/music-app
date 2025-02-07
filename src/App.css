@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
 .custom-padding {
-    padding-left: 0%; /* Ajusta el porcentaje según sea necesario */
+    padding-left: 30%; /* Ajusta el porcentaje según sea necesario */
     padding-right: 30%;
   }
 
   @media (max-width: 1100px) {
     .custom-padding {
-      padding-left: 0%; /* Ajusta el porcentaje según sea necesario */
+      padding-left: 10%; /* Ajusta el porcentaje según sea necesario */
       padding-right: 30%;
   }
   }
