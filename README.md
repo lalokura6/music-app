@@ -1,8 +1,20 @@
-# React + Vite
+# Music-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Este repositorio es un proyecto de una Aplicación de Música, está construido utilizando React.
 
-Currently, two official plugins are available:
+## Características
+* Reproducción de música.
+* Diseño adaptable a diferentes dispositivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
+* React
+* Vite
+* Taildwind CSS
+
+## Instalación
+1. Descarga este repositorio: https://github.com/lalokura6/music-app
+2. Navega a la carpeta cd music-app
+3. Instala las dependencias: npm install
+4. Ejecuta el proyecto: npm run dev
+5. Visita http://localhost:5173/ en tu nevagador para ver la aplicación.
