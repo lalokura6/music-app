@@ -5,6 +5,7 @@ Este repositorio es un proyecto de una aplicación de música; está construido 
 
 ## Características
 * Reproducción de música.
+* Control de volumen.
 * Diseño adaptable a diferentes dispositivos.
 
 ## Tecnologías utilizadas
